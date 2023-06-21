@@ -15,22 +15,23 @@ Go to the Mailgun dashboard.
 ```
 Click on the "Sending" tab in the navigation menu.
 ```
-![Alt text](image.png)
+![image](https://github.com/gic-anurag/mailgun-webhook/assets/89963141/627f0038-4c57-4fba-9006-5a299aa36df0)
+
 ```
 Scroll down and click on the "Webhooks" tab.
 ```
-![Alt text](image-1.png)
+![image](https://github.com/gic-anurag/mailgun-webhook/assets/89963141/a20a3867-30f3-48c2-8342-a5e5bea2ebcd)
 ```
-Click on "Add New Webhook".
+Click on "Add Webhook".
 ```
-![Alt text](image-2.png)
+![image](https://github.com/gic-anurag/mailgun-webhook/assets/89963141/841e2710-95a5-4735-a77c-2c7f29db989e)
 ```
 Select the types of events you want to receive notifications for (e.g., delivered, opened, clicked, bounced, etc.).
 ```
 ```
 In the "URL" field, enter the URL of your webhook endpoint.
 ```
-![Alt text](image-3.png)
+![image](https://github.com/gic-anurag/mailgun-webhook/assets/89963141/7eeebbde-5d15-4b2a-915d-346739f1e700)
 ```
 Click the "Save" or "Create Webhook" button to apply the changes.
 ```
